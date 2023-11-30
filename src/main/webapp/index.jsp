@@ -14,5 +14,8 @@
     <div>
         <a href="/chap03/dancer/register.jsp">JSP 댄서 등록 폼</a>
     </div>
+    <div>
+        <a href="mvc/register">MVC 댄서 등록 폼</a>
+    </div>
 </body>
 </html>
